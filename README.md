@@ -1,5 +1,7 @@
 # Arquivos da minha lista de exercícios ::bookmark_tabs:
 
+## Tópico de Registros e Enumeradores
+
 1 Crie um registro com nome endereço onde vai conter os campos rua, número, complemento, bairro, cidade, estado. Faça o usuário preencher e exibir todos os dados depois do preenchimento.
 
 2 Crie uma estrutura chamada “Celular” que armazenará seu nome, cor, preço e armazenamento interno. Preencha 5 registros diferentes em um vetor de 5 posições. Depois, imprima os dados na tela.
@@ -20,6 +22,8 @@
   c) No ato da criação da conta o cliente precisará fazer um depósito inicial.
   d) Após as contas serem criadas, o sistema deverá possibilitar realizações de saques ou depósitos nas contas.
   e) Sempre que uma operação de saque ou depósito seja realizada, o sistema deverá imprimir o nome do titular e o saldo final da conta.
+
+## Tópico de Ponteiros
 
 9 Crie um programa que inicialize um número inteiro com 100, e depois crie a função “Incrementa” para passar o endereço de um ponteiro e um número como parâmetro, somando dentro da função. Por fim, imprima na tela o valor do número.
 
